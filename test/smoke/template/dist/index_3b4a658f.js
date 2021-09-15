@@ -1,0 +1,1 @@
+(()=>{"use strict";document.open(),document.write("Hello webpack"),document.close(),console.log(1)})();
